@@ -1,0 +1,1 @@
+Instalar a biblioteca Opencv e o Jupyter
